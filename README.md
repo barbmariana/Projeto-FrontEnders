@@ -1,4 +1,5 @@
 # SpokeBuds para FrontEnders 💻	
+We had to create a web site to a new product using HTML, CSS, Bootstrap and JavaScript.
 Criação de página para produto inovador e lançamento da empresa FrontEnders.
 
 </div>
