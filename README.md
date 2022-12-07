@@ -26,11 +26,11 @@ We had to create a web site to a new product using HTML, CSS, Bootstrap and Java
 O grupo teve que criar uma página web usando HTML, CSS, Bootstrap e Javascript.
 
 ## Equipe 🧒
-Andrew:
-Fabricio:
-Mariana: github.com/barbmariana
-Ruan:
-Wesley 
+Andrew:<br>
+Fabricio:<br>
+Mariana: github.com/barbmariana <br>
+Ruan: <br>
+Wesley: <br>
 
 
 ## Tecnologias 🌐
