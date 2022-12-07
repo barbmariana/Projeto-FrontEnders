@@ -1,5 +1,8 @@
 # SpokeBuds para FrontEnders 💻	
-We had to create a web site to a new product using HTML, CSS, Bootstrap and JavaScript.
+
+Create a new web page to a product and company launch.
+
+(pt-br)
 Criação de página para produto inovador e lançamento da empresa FrontEnders.
 
 </div>
@@ -7,18 +10,27 @@ Criação de página para produto inovador e lançamento da empresa FrontEnders.
 <img src="https://ruanthow.github.io/Projeto-FrontEnders/assets/img/logoSpokebudsYellowBlack.png">
 </p>
 
-## O projeto 
-O projeto consiste em ser um fone de ouvido que consegue traduzir qualquer idioma quando for preciso. Ele funcionaria da seguinte forma, quando o seu usuário tivesse vontade de traduzir a fala de outra pessoa ou dela mesma em outro idioma. O usuário ligaria essa função no seu smartphone qualquer através de um aplicativo e o microfone embutido no fone captaria oque foi dito e traduziria para a linguagem escolhida.
+## O projeto 💻
+The project is a web page for a new product launch. Our product is a headphone that can translate every language.
+
+(pt-br)
+O projeto é uma página web idealizada para o lançamento de um fone de ouvido tradutor de idiomas.
 
 
 
 ## Objetivo do projeto 📍
-Para esse projeto, montamos uma web page de lançamento para o nosso produto inovador, um fone tradutor de idiomas. 
+SpokeBuds para FrontEnders	
+We had to create a web site to a new product using HTML, CSS, Bootstrap and JavaScript
 
+(pt-br)
+O grupo teve que criar uma página web usando HTML, CSS, Bootstrap e Javascript.
 
-
-## O grupo
-Andrew, Fabricio, Mariana, Ruan, Wesley 
+## Equipe 🧒
+Andrew:
+Fabricio:
+Mariana: github.com/barbmariana
+Ruan:
+Wesley 
 
 
 ## Tecnologias 🌐
