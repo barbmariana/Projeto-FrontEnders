@@ -19,7 +19,7 @@ O projeto é uma página web idealizada para o lançamento de um fone de ouvido 
 
 
 ## Objetivo do projeto 📍
-SpokeBuds para FrontEnders	
+	
 We had to create a web site to a new product using HTML, CSS, Bootstrap and JavaScript
 
 (pt-br)
