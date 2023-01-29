@@ -1,6 +1,6 @@
 # SpokeBuds para FrontEnders 💻	
 
-Create a new web page to a product and company launch.
+Creating a new web page to a product and company launch.
 
 (pt-br)
 Criação de página para produto inovador e lançamento da empresa FrontEnders.
