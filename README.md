@@ -1,4 +1,4 @@
-# SpokeBuds para FrontEnders 💻	
+# SpokeBuds to FrontEnders 💻	
 
 Creating a new web page to a product and company launch.
 
@@ -10,7 +10,7 @@ Criação de página para produto inovador e lançamento da empresa FrontEnders.
 <img src="https://ruanthow.github.io/Projeto-FrontEnders/assets/img/logoSpokebudsYellowBlack.png">
 </p>
 
-## O projeto 💻
+## The project 💻
 The project is a web page for a new product launch. Our product is a headphone that can translate every language.
 
 (pt-br)
@@ -18,14 +18,14 @@ O projeto é uma página web idealizada para o lançamento de um fone de ouvido 
 
 
 
-## Objetivo do projeto 📍
+## Goal 📍
 	
 We had to create a web site to a new product using HTML, CSS, Bootstrap and JavaScript
 
 (pt-br)
 O grupo teve que criar uma página web usando HTML, CSS, Bootstrap e Javascript.
 
-## Equipe 🧒
+## Team 🧒
 Andrew:<br>
 Fabricio:<br>
 Mariana: github.com/barbmariana <br>
@@ -33,7 +33,7 @@ Ruan: <br>
 Wesley: <br>
 
 
-## Tecnologias 🌐
+## Technologies 🌐
 
 🛠️HTML5, CSS3, JavaScript, Bootstrap, Figma and Vscode
 <div style="display: inline_block"><br>
